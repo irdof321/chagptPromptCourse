@@ -1,5 +1,7 @@
 # chagptPromptCourse
 
+All docuiment found in this repository come from deeplearning.ai.
+
 ## Introduction
 
 ### Principles
